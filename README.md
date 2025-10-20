@@ -183,29 +183,25 @@ git push origin main
 
 ### Pipeline Overview
 
-![Pipelines](screenshots/pipelines-list.png)
-
-### Backend Pipeline Running
-
-![Backend Running](screenshots/backend-pipeline-running.png)
+![1760959092957](image/README/1760959092957.png)
 
 ### Backend Pipeline Success
 
-![Backend Success](screenshots/backend-pipeline-success.png)
+![1760959149075](image/README/1760959149075.png)
 
 ### Frontend Pipeline Success
 
-![Frontend Success](screenshots/frontend-pipeline-success.png)
+![1760959187999](image/README/1760959187999.png)
 
-### Build Logs
+Pipeline Summary
 
-![Build Logs](screenshots/build-logs.png)
+Frontend Pipeline
 
-### Docker Build Step
+![1760963854633](image/README/1760963854633.png)
 
-![Docker Build](screenshots/docker-build.png)
+Backend Pipeline
 
----
+![1760963909640](image/README/1760963909640.png)
 
 ## 🛠️ Technology Stack
 
@@ -218,22 +214,6 @@ git push origin main
 | Version Control  | Git              |
 
 ---
-
-## ✅ Task Requirements Met
-
-✅ **Code Build Step:** Maven for Java, npm for React
-✅ **Docker Build Step:** Creates Docker images for both apps
-✅ **CI/CD Tool:** GitHub Actions
-✅ **Automated:** Runs on every push
-✅ **Screenshots:** Included with name and date
-
----
-
-## 📝 Assignment Information
-
-**Course:** Kaiburr Assessment 2025
-**Task:** Task 4 - CI/CD Pipeline
-**Submission Date:** October 20, 2025
 
 ---
 
